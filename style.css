@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Regole XS */
+.ridimensionaimg{
+  height: 150px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+/* CENTRATURA */
+.text{
+  text-align: center;
+  margin-top: 15px;
+}
+
+.bordo{
+  border-bottom: 1px solid black;
+}
+
+.yellow{
+  color: yellow;
+}
